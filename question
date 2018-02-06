@@ -1,2 +1,3 @@
 Tell us about the coolest thing you've built int the last year 
 a humidifier that was automatically controlled by a raspberry Pi, also the data of room temperate and humidity level was gathered by Pi and pushed to Rails server which hosted on AWS EC2. Also, a static web-page generated with ReactJS was host on AWS S3 to communicate with server through API and display the data. Demo was available at http://pi-dht22.s3-website-us-east-1.amazonaws.com/
+What is your favorite open source project?
